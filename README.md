@@ -83,6 +83,19 @@ Autonomy, controls, and mission behavior are developed independently of the airf
 The Flightory platform is used as a **baseline air vehicle** to enable realistic autonomy and systems engineering work.
 
 ---
+## Air Force Innovation Context
+
+Arctic Bloodhound originated as a **non-classified exploratory project** developed in partnership with an **Air Force innovation organization**, with the goal of advancing hands-on engineering experience in autonomy, systems integration, and UAV mission concepts.
+
+The work focused on:
+- rapid prototyping
+- autonomy experimentation
+- systems architecture and verification practices
+
+This repository represents **independent engineering development and documentation** based on that experience.
+It does not represent an operational system, program of record, or official Air Force capability.
+
+All content in this repository is unclassified and suitable for public release.
 
 ## Roadmap
 **Near-term**
